@@ -77,10 +77,8 @@ A *chevauchée* was a mobile raid focused on:
 
 ## Illustrations
 
-![Battle of Poitiers (miniature, Froissart)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Battle_of_Poitiers_1356.jpg/800px-Battle_of_Poitiers_1356.jpg)  
-*Miniature from Jean Froissart's Chronicles (15th century)*
-
-> **Note:** Replace the above link with a local image if forking this repository.
+<img width="330" height="288" alt="image" src="https://github.com/user-attachments/assets/085d56b1-b6cd-45a8-9e87-5e298ca662e7" />
+<img width="330" height="253" alt="image" src="https://github.com/user-attachments/assets/15da2e15-62b2-47c2-9625-79e0960b59f3" />
 
 ---
 
